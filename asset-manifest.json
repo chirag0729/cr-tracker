@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ab44c64.css",
+    "main.js": "/static/js/main.2f6061a6.js",
+    "static/media/favpng_bitcoin-cash-cryptocurrency-logo.png": "/static/media/favpng_bitcoin-cash-cryptocurrency-logo.79d471d37c860e8eef61.png",
+    "index.html": "/index.html",
+    "main.5ab44c64.css.map": "/static/css/main.5ab44c64.css.map",
+    "main.2f6061a6.js.map": "/static/js/main.2f6061a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ab44c64.css",
+    "static/js/main.2f6061a6.js"
+  ]
+}
